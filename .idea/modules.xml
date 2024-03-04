@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DHANAM_Backend.iml" filepath="$PROJECT_DIR$/.idea/DHANAM_Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ums.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ums.main.iml" />
     </modules>
   </component>
 </project>
